@@ -11,5 +11,5 @@ cd trader_0.9.3
 运行完成后打开浏览器，输入http://YOUR_SERVER_IP:5100访问配置页面
 ok量化策略,
 https://www.okx.com/join/14041082
-使用我邀请码注册免费使用
+使用我邀请码注册免费使用 /n
 返佣20%
