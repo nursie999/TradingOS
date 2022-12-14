@@ -1,4 +1,4 @@
-# TradingOS  
+# TradingOS 量化交易策略    
 建议大家使用阿里云香港轻量级服务器  
 TradingOS  
 https://t.me/TradingOS  
