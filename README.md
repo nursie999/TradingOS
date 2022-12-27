@@ -13,7 +13,7 @@ ok量化策略,
 https://www.okx.com/join/14041082  
 使用我邀请码注册免费使用   
 返佣20%  
-没有使用邀请码的100U/月  
+没有使用邀请码的50U/月  
 加入telegram取使用期限    
 https://t.me/TradingOS  
 
