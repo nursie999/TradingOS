@@ -1,4 +1,4 @@
-# TradingOS 量化交易策略    
+# TradingOS 量化交易策略 ChatGPT
 建议大家使用阿里云香港轻量级服务器  
 免费使用一个月...
 TradingOS  
