@@ -4,10 +4,10 @@
 TradingOS  
 https://t.me/TradingOS  
 下载后解压  
-tar -xzvf trader_0.9.9.tar.gz  
+tar -xzvf trader_0.9.10.tar.gz  
 
 执行安装脚本安装    
-cd trader_0.9.9  
+cd trader_0.9.10  
 ./setup.sh  
 运行完成后打开浏览器，输入http://YOUR_SERVER_IP:5100访问配置页面  
 ok量化策略,  
