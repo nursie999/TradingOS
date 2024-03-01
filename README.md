@@ -1,4 +1,6 @@
 ![5146554d15f4b7882df6bf94b39e90c](https://github.com/nursie999/TradingOS/assets/3390708/e17b98e6-8fac-40d1-92fe-26afeb60b376)
+
+
 现在TradingOS可以直接跟单了,跟单okx寻找甄海王,
 跟单建议4000u左右每次下单10u,20倍,
 1w u左右,每次跟单35u 20倍,
